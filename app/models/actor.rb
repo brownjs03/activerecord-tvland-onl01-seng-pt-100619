@@ -6,4 +6,5 @@ class Actor < ActiveRecord::Base
    self.name 
  end 
  
+ 
 end
